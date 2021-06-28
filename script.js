@@ -30,7 +30,7 @@ function novoElemento()
     // ADICIONANDO O TEXTO AO SPAN
     span.appendChild(txt);
     // INSERINDO O SPAN NO ELEMENTO "contador" DA LISTA
-    minhaLista[contador].appendChild(span);
+    lista.appendChild(span);
 
     for(contador = 0; contador < fechar.length; contador++)
     {
