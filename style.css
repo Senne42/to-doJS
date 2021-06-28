@@ -1,0 +1,18 @@
+/* IDS */
+
+/* CLASSES */
+
+/* TAGS */
+footer
+{
+    height: 5%;
+    width: 99%;
+    position: absolute;
+}
+footer p
+{
+  color: rgb(0, 0, 0);
+  text-shadow:
+  0 0 10px rgb(209, 138, 200),
+  0 0 1px white;
+}
