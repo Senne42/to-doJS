@@ -5,9 +5,9 @@ Projeto simples em JavaScript para aprendizado!
 # OBJETIVOS 🎯
 ## OBJETIVOS PRIMÁRIOS 
 
- - [ ] Criar botão para adicionar novos itens
- - [ ] Criar botão para remover itens
- - [ ] Exibir itens armazenados
+ - [x] Criar botão para adicionar novos itens
+ - [x] Criar botão para remover itens
+ - [x] Exibir itens armazenados
 ## OBJETIVOS EXTRAS
  - [ ] Armazenar dados após sair da pagina
  - [ ] Melhorias estéticas
