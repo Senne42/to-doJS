@@ -16,3 +16,8 @@ footer p
   0 0 10px rgb(209, 138, 200),
   0 0 1px white;
 }
+
+#lista span
+{
+    padding-left: 100px;
+}
